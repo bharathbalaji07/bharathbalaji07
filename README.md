@@ -1,31 +1,90 @@
-## Hi there 👋 I'm Bharath Balaji
 
+<h1 align="center">Hi 👋, I'm Bharath Balaji</h1>
 
-💻 Aspiring Software Engineer </br>
-🌱 Learning MERN Stack </br>
-🧩 Solving DSA on LeetCode </br>
-🚀 Building AI & Full-Stack Projects </br>
+<h3 align="center">Aspiring Software Engineer | MERN Stack Developer | AI Enthusiast</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bharathbalaji07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- Social Presence
-<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/hareesh_._r/)
+<img align="right" alt="Coding" width="340" src="https://i.gifer.com/JXA0.gif"/>
 
-### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> 
+## 👨‍💻 About Me
 
-### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> 
+- 🎓 B.Sc. Computer Science (Artificial Intelligence & Data Science)
+- 💻 Passionate about Software Development and Problem Solving
+- 🌱 Currently learning **MERN Stack**
+- 🧩 Practicing **Data Structures & Algorithms** on LeetCode
+- 🚀 Building Full-Stack and AI-powered Projects
+- 🤝 Open to Internship and Software Engineering Opportunities
 
+<br>
 
-[![Bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharathbalaji07l)](https://github.com/bharathbalaji07/github-readme-stats)
+## 🌐 Connect With Me
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/bharathbalaji_g?theme=dark&font=Marcellus&ext=contest)
+<p align="left">
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![Bharath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bharathbalaji07&bg_color=0d1117&color=f2f2f2&line=0ee11c&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/bharathbalaji07">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
+<a href="YOUR_LEETCODE_URL">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,bootstrap,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bharathbalaji07&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathbalaji07&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bharathbalaji07&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/bharathbalaji_g?theme=dark&font=Marcellus&ext=contest"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+[![Bharath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bharathbalaji07&theme=github-compact)](https://github.com/bharathbalaji07)
+
+---
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Happy+Coding!;Let's+Connect+%F0%9F%9A%80" />
+</p>
 
 <!--
 **bharathbalaji07/bharathbalaji07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
